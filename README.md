@@ -34,11 +34,10 @@ My name is Vadim Nifadyev and I'm web developer.
 <p>
 <a href="https://vk.com/nifadyev"><img height="30" src="https://github.com/nifadyev/nifadyev/raw/master/icons/vk.png"></a>&nbsp;&nbsp;
 <a href="https://t.me/vadim_nifadyev"><img height="30" src="https://github.com/nifadyev/nifadyev/raw/master/icons/telegram.png"></a>&nbsp;&nbsp;
-<!-- <a href="https://www.linkedin.com/in/nifadyev/"><img height="30" src="https://github.com/nifadyev/nifadyev/raw/master/icons/linkedin.png"></a> -->
+<a href="https://www.linkedin.com/in/vadim-nifadyev/"><img height="30" src="https://github.com/nifadyev/nifadyev/raw/master/icons/linkedin.png"></a>
 <!-- TODO: Change Skype link once leave Artezio
 How to share Skype profile: https://www.quora.com/Can-I-send-my-Skype-profile-as-a-link?share=1 -->
 <a href="https://join.skype.com/invite/m8RXnH5x3bEd"><img height="30" src="https://github.com/nifadyev/nifadyev/raw/master/icons/skype.png"></a>&nbsp;&nbsp;
-<!-- <a href="https://career.habr.com/nifadyev"><img height="30" src="https://github.com/nifadyev/nifadyev/raw/master/icons/habr_career.jpg"></a> -->
 </p>
 
 <!-- How to set up Github profile README: https://dev.to/martinheinz/build-a-stunning-readme-for-your-github-profile-5dkn -->
