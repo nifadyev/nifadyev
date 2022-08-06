@@ -1,10 +1,15 @@
 ## Hi there 👋
 
-My name is Vadim Nifadyev and I'm web developer.
+My name is Vadim Nifadev and I'm web developer.
 
-- 🔭Working on large online travel agency, responsible for hotel department
-- 🌱Interested in making life easier by creating automation tools and utilities
-- ⚡Fascinated about travelling, cycling and playing basketball
+* 3+ years of web development experience, specializing in Django (2+ years)
+* Domain expert in HR Tech and Travel Tech
+* Aimed to reduce complexity and improve developer experience by integrating auto formatters, writing documentation and tweaking CI
+* Fond of automating routine tasks using chatbots and writing scripts on Bash and Python
+* Constantly improving the knowledge of used technologies and tools. Learning FastAPI and Flask now
+* Enjoy playing basketball and cycling at spare time
+
+> “If you want to go fast, if you want to get done quickly, if you want your code to be easy to write, make it easy to read.”— Robert Martin
 
 ## 🔧 Technologies & Tools
 
@@ -29,6 +34,6 @@ My name is Vadim Nifadyev and I'm web developer.
 </a> -->
 
 
-## 📫 Reach me in <a href="https://www.linkedin.com/in/vadim-nifadyev/">LinkedIn</a>
+## 📫 Reach me in <a href="https://www.linkedin.com/in/vadim-nifadev/">LinkedIn</a>
 
 <!-- How to set up Github profile README: https://dev.to/martinheinz/build-a-stunning-readme-for-your-github-profile-5dkn -->
