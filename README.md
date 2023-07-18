@@ -26,6 +26,10 @@ My name is Vadim Nifadev and I'm web developer.
 
 [![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nifadyev)](https://github.com/anuraghazra/github-readme-stats)
 
+## Roadmap.sh progress
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6441072de27257737492ed10?variant=light)](https://roadmap.sh)
+
 <!-- <a href="https://github.com/nifadyev/nifadyev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nifadyev&hide=html&theme=nord&layout=compact" />
 </a> -->
