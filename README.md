@@ -2,7 +2,7 @@
 
 My name is Vadim Nifadev and I'm web developer.
 
-* 3+ years of web development experience, specializing in Django (2+ years)
+* 4+ years of web development experience, specializing in Django (2+ years)
 * Domain expert in HR Tech and Travel Tech
 * Aimed to reduce complexity and improve developer experience by integrating auto formatters, writing documentation and tweaking CI
 * Fond of automating routine tasks using chatbots and writing scripts on Bash and Python
@@ -25,17 +25,3 @@ My name is Vadim Nifadev and I'm web developer.
 ## &#x1f4c8; GitHub Stats
 
 [![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nifadyev)](https://github.com/anuraghazra/github-readme-stats)
-
-## Roadmap.sh progress
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6441072de27257737492ed10?variant=light)](https://roadmap.sh)
-
-<!-- <a href="https://github.com/nifadyev/nifadyev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nifadyev&hide=html&theme=nord&layout=compact" />
-</a> -->
-
-<!-- <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=nifadev" width="400"/>
-</a> -->
-
-<!-- How to set up Github profile README: https://dev.to/martinheinz/build-a-stunning-readme-for-your-github-profile-5dkn -->
