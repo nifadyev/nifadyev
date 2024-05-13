@@ -3,6 +3,7 @@
 My name is Vadim Nifadev and I'm web developer.
 
 * 4+ years of web development experience, specializing in Django (2+ years)
+* [wtfpython](https://github.com/satwikkansal/wtfpython) and [kapibara](https://gitlab.com/vortex185330/backend/Vortex) contributor
 * Domain expert in HR Tech and Travel Tech
 * Aimed to reduce complexity and improve developer experience by integrating auto formatters, writing documentation and tweaking CI
 * Fond of automating routine tasks using chatbots and writing scripts on Bash and Python
